@@ -1,0 +1,2 @@
+git rm citw/Assets/Materials/SnowMat.mat
+git rm citw/Assets/Materials/enemySprite.mat

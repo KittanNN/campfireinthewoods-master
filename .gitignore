@@ -1,0 +1,15 @@
+Library/
+Temp/
+
+citw/Assets/Materials/SnowMat.mat
+citw/Assets/Materials/SnowMat.mat.meta
+citw/Assets/Materials/SnowMat.mat.orig
+citw/Assets/Materials/SnowMat.mat.orig.meta
+citw/Assets/Materials/enemySprite.mat
+citw/Assets/Materials/enemySprite.mat.meta
+citw/Assets/Materials/enemySprite.mat.orig
+citw/Assets/Materials/enemySprite.mat.orig.meta
+
+citw/.vs/
+.vs/
+citw/.vs/citw/
